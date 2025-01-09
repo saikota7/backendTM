@@ -55,7 +55,7 @@ MIDDLEWARE = [
 ]
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
-    "https://tasks-3plt.onrender.com/" 
+    "https://tasks-3plt.onrender.com" 
 ]
 ROOT_URLCONF = 'taskmanager.urls'
 
